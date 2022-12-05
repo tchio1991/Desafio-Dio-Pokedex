@@ -18,4 +18,4 @@
 * **HTML**
 * **CSS**
 
-[Clique aqui para vizualizar a pagina Pokedex]()
+[Clique aqui para vizualizar a pagina Pokedex](https://tchio1991.github.io/Desafio-Dio-Pokedex/)
